@@ -1,0 +1,17 @@
+priorités de calcul * /
+
+simplifier et réorganiser le constructeur
+simplifier et réorganiser "calculSansPriorite"
+
+intégrer les parenthèses
+priorités sur les parenthèses
+
+évoluer les tableaux avec arraylist
+
++: + / * /
+-: - + / *
+*: * / + -
+/: + - * /
+
+
+
